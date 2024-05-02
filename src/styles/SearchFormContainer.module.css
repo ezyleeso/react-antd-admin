@@ -1,0 +1,12 @@
+.serachFormContainer {
+  background-color: #f9fafb;
+  border: 1px solid #ebedf1;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.serachFormContainer form {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
